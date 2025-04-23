@@ -46,7 +46,7 @@ The proxy-router uses environment variables for configuration instead of volume 
 
 1. **Prepare SDL Template**
    * Download and customize [Akash SDL Template](./deploy.yaml)
-   * Minimum version: `v3.0.0`
+   * Minimum version: `v4.2.0`
    * Configure:
      - Wallet private key
      - API credentials
